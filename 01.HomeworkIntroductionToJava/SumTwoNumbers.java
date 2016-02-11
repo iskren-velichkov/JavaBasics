@@ -1,8 +1,6 @@
 import java.util.Scanner;
 
-/**
- * Created by ani on 29-Jan-16.
- */
+
 public class SumTwoNumbers {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);

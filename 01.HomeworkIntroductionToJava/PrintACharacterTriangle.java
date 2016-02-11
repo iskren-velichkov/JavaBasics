@@ -1,8 +1,6 @@
 import java.util.Scanner;
 
-/**
- * Created by ani on 01-Feb-16.
- */
+
 public class PrintACharacterTriangle {
     public static void main(String[] args) {
         System.out.print("numberOfLetters = ");

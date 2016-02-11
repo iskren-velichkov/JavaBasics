@@ -1,8 +1,6 @@
 import java.util.Scanner;
 
-/**
- * Created by ani on 02-Feb-16.
- */
+
 public class SumNumbersFrom1ToN {
     public static void main(String[] args) {
         System.out.print("N = ");
